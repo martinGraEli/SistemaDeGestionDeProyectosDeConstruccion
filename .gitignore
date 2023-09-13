@@ -1,0 +1,47 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*/**/*.vsidx
+*/**/*.opendb
+*/**/*.db
+*/**/*.wsuo
+*/**/*.db-shm
+*/**/*.db-wal
+*/**/*.lock
+*/**/*.sqlite
+
+.vs/SistemaDeGestiónDeProyectosDeConstrucción/FileContentIndex/d07f1618-9cce-4e99-b448-6e8a3b09acd0.vsidx
+.vs/SistemaDeGestiónDeProyectosDeConstrucción/v17/Browse.VC.db
+.vs/SistemaDeGestiónDeProyectosDeConstrucción/v17/ipch/AutoPCH/c6f4dd698e0536f3/SISTEMADEGESTIÓNDEPROYECTOSDECONSTRUCCIÓN.ipch
+.vs/ProjectSettings.json
+.vs/SistemaDeGestiónDeProyectosDeConstrucción/v17/Browse.VC.db
+.vs/SistemaDeGestiónDeProyectosDeConstrucción/FileContentIndex/d07f1618-9cce-4e99-b448-6e8a3b09acd0.vsidx
